@@ -1,0 +1,12 @@
+# Ignore build artifacts
+helloworld
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore temporary files
+*~
+*.swp
+*.tmp
+.DS_Store
