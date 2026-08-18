@@ -10,3 +10,9 @@ helloworld
 *.swp
 *.tmp
 .DS_Store
+
+# VS Code
+.vscode/
+
+# C debug symbols
+*.dSYM/
